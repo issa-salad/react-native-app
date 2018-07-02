@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Pillar Test App",
+    "icon": "./src/assets/iron-man_icon-1024.png",
+    "version": "1.0.0",
+    "slug": "pillar-test-app",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.pillarproject.pillar-test-app",
+      "publishBundlePath": "ios/pillar-test-app/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/pillar-test-app/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.pillarproject.pillar-test-app",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    },
+    "isDetached": true,
+    "detach": {
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.5.10-sdk27.0.0-7e6dd135-e649-48e2-ab7c-e76521ce6259.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.3-sdk27.0.0-408c8d77-8d1f-4784-b7b4-93826250663a.tar.gz"
+    },
+    "scheme": "exp0e53faf0640a4c1eba86194ce8cff242"
+  }
+}
