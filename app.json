@@ -11,7 +11,7 @@
       "publishManifestPath": "ios/pillar-test-app/Supporting/shell-app-manifest.json"
     },
     "android": {
-      "package": "com.pillarproject.pillar-test-app",
+      "package": "com.pillarproject.pillartestapp",
       "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
       "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
     },
