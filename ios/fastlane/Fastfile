@@ -22,7 +22,7 @@ platform :ios do
             workspace: "pillar-test-app.xcworkspace",
             scheme: "pillar-test-app",
             configuration: "Release",
-            xcargs: "-sdk iphonesimulator SYMROOT='~/pillarwallet'"
+            xcargs: "-sdk iphonesimulator SYMROOT='~/react-native-pillar-test'"
         )
   end
 end
